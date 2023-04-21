@@ -1,0 +1,49 @@
+body{
+background-color: #2D033B;
+font-family: 'Share Tech Mono', monospace;
+}
+
+p{
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 90px;
+    text-shadow: 2px 2px 30px #C147E9;
+    color: lavenderblush;
+}
+
+.button{
+    width: 200px;
+    height: 70px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Share Tech Mono', monospace;
+    box-shadow: 3px 4px 5px white;
+margin-top: 35px;
+border-color: #C147E9;
+border: 5px solid #C147E9;
+background-color: transparent;
+color: #C147E9;
+}
+
+
+.button:hover{
+    box-shadow: 3px 4px white;
+    width: 180px;
+    height: 60px;
+    text-decoration:underline
+    
+}
+
+canvas, img{
+    margin-top: 200px;
+}
+
+#status{
+    color:aliceblue;
+    font-family: 'Share Tech Mono', monospace;
+    text-decoration: underline;
+}
+
+
+h6{
+    
+}
